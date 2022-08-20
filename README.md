@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Xinghua Pan
-- 👀 I’m interested in Machine Learning, Python, Rustlang, RPi, RISC-V, Linux, Algorithms.
-- 🌱 I’m currently learning Rust and Google Cloud.
+- 👀 I’m interested in Machine Learning, Python, C++/Qt, Rustlang, RPi, RISC-V, Linux, Algorithms.
+- 🌱 I’m currently learning Rust and Qt6.
 - 👀 I’m actively looking for a Software Enginer position in Columbus, Ohio or Remote.
