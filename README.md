@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Xinghua Pan
-- 👀 I’m interested in Rustlang, C++/Qt, (Embedded)Linux, Algorithms, Coq, Machine Learning, Python, RPi, RISC-V, and FPGA.
-- 👀 Looking for a Software Engineer position in Columbus, Ohio or Canada.
+- 👀 I’m interested in Rust, C++/Qt, Python, (Embedded)Linux, Algorithms, Coq, Raspberry Pi, Arduino and FPGA.
+- 👀 Looking for a Software Engineer position.
 - 👀 东张西望，一无所长。四体不勤，五谷不分。文不能测字，武不能防身。。。厌恶争执，不善言说。终于沦为沉默的帮凶。
